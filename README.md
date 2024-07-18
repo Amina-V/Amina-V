@@ -1,10 +1,8 @@
 👋 Hi, I’m Amina V.
 
-👀 I’m interested in hci, designing, reading & philosphy meetups
+👀 I’m interested in hci, design, reading & philosphy meetups
 
-🌱 I’m currently learning ml models and personal engineering projects
-
-📚 I am a grad student in an HCI program
+🌱 Building ml models and personal engineering projects
 
 💚 Current head of creator(user) engagement at MintStars
 
