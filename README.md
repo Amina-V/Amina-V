@@ -1,6 +1,6 @@
 👋 Hi, I’m Amina V.
 
-👀 I’m interested in hci, design, reading & philosphy meetups
+👀 I’m interested in hci, design & philosphy 
 
 🌱 Building ml models and personal engineering projects
 
