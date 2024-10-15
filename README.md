@@ -1,15 +1,20 @@
-👋 Hi, I’m Amina V.
+Introduction
+------------
 
-👀 I’m interested in hci, design & philosphy 
-
-🌱 Building ml models and personal engineering projects
-
-💚 Current head of user engagement and data at MintStars
-
-🎨 Research archiving @ Plurality Institute 
-  
-💞️ I’m looking to collaborate on various projects, learn as much as I can from others! 🫡
-
-📫 How to reach me: twitter @ amina_io
+I'm Amina, a Growth Engineer living in San Francisco, California. I'm interested in Human-Computer Interaction, and in December 2024, I'll finish a degree in the field! While visual design interests me, I'm moved to work on projects where I can deeply consider the experience of a technology user and work on making it more efficient. Previously, I lived in Tokyo, Japan & London, England.
 
 
+What I'm Working On Now
+-------------------
+
+MintStars (Head of User Engagement): I'm the first non-C suite hire at this small but mighty creator economy start-up. It's been a really fun project, and it's been amazing to see our rapid growth over the past few years.
+Plurality Institute(Research Assistant): Part-time role for a mission-focused non-profit organization with the mission of facilitating collaboration between technologists in the Plurality space.
+Name TBD (Research Lead): A graduate capstone project collaborating with Accenture Research Labs and investigating the efficacy of an AI mentor assistant with biosensing capabilities.
+Griot (Engineer): A creative personal project that will allow people to record their or their familial stories and save them to achieve lots of interesting cross-cultural stories from others.
+
+
+
+Non-tech stuff
+---------------
+
+In my previous life, I performed as a professional "idol" in Japan's Akihabara district. It was really fun and I hope to hack on some creative projects related to girl groups soon.
