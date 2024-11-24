@@ -16,7 +16,7 @@ Plurality Institute (Research Assistant): Part-time role for a mission-focused n
 Senpai:  Coding an AI upskilling mentor with biosensing capabilities.
 
 
-Griot (Engineer): A creative personal project that will allow people to record their or their familial stories and save them to achieve lots of interesting cross-cultural stories from others.
+Griot: A creative personal project that will allow people to record their or their familial stories and save them to achieve lots of interesting cross-cultural stories from others.
 
 
 
