@@ -9,7 +9,7 @@ What I'm Working On Now
 MintStars (Head of Data): I'm the first non-C suite hire at this growth stage creator economy start-up. It's been a really fun project, and it's been amazing to see our rapid growth over the past few years.
 
 
-Plurality Institute (Research): Part-time role for a mission-focused organization with the mission of facilitating collaboration between technologists in the Plurality space.
+Plurality Institute (Research): Part-time role for a mission-focused organization in the space of technological Pluralism. 
 
 
 Senpai:  Coding an AI upskilling mentor with biosensing capabilities.
