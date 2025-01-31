@@ -1,6 +1,6 @@
 Introduction
 ------------
- I'm interested in Human-Computer Interaction, Affective Computing, and learning new things! Previously, I lived in Tokyo, Japan & London, England.
+ I'm interested in Human-Computer Interaction, Affective Computing, and learning new things! Previously, I lived in Tokyo, Japan & London, England. I'm now in sunny San Francisco ✨
 
 
 What I'm Working On Now
